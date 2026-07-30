@@ -35,7 +35,7 @@ Aujourd'hui, je construis des produits data de bout en bout : collecte et struct
 
 ## Formation
 
-**Diplôme d'Ingénieur** — Grenoble INP
+**Diplôme d'Ingénieur** — Grenoble INP (2014)
 
 **Le Wagon Nantes** — Bootcamp Data Science & AI (2026)  
 Python, Data Toolkit, Decision Science, Maths pour le ML, Machine Learning, Deep Learning, MLOps, déploiement d'API et Web Apps.
