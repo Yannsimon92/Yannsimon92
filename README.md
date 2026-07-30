@@ -1,17 +1,17 @@
-# Yann Simon
-
 **Ingénieur R&D (Grenoble INP) & Data / AI Engineer**  
-Dev full-stack & design produit reconverti dans la Data Science (Le Wagon Nantes).  
-J'aime concevoir des produits data complets, du modèle ML jusqu'à l'interface utilisateur.  
+Dev full-stack & design produit reconverti en Data Science & IA (Le Wagon Nantes).  
+J'aime construire des produits data complets : du besoin à l'interface, du modèle au déploiement.  
 [LinkedIn](https://www.linkedin.com/in/yannsimon92/) · [Portfolio](https://yannsimon.com)
 
 ---
 
 **Parcours**
 
-Ingénieur R&D de formation (Grenoble INP), j'ai travaillé dans le développement web et le design produit avant de me spécialiser en Data Science et IA au **Wagon** (batch Nantes #2275, 2026).  
-Mon profil hybride me permet d'aborder la data avec une vision produit : concevoir des modèles performants, mais surtout exploitables et intégrés dans de vrais outils (API, interfaces, pipelines).  
-Aujourd'hui, je travaille sur toute la chaîne : collecte, modélisation (ML/DL), API, interfaces et déploiement cloud.
+Ingénieur R&D de formation (Grenoble INP), j'ai travaillé une dizaine d'années dans le développement web et le design produit avant de me spécialiser en Data Science & IA au **Wagon** (batch Nantes #2275, 2026).
+
+Mon profil hybride me donne une vision transversale du cycle de vie complet d'un produit : analyse du besoin, conception, modélisation, développement, interfaces utilisateur, mise en production, débogage et évolution.
+
+Aujourd'hui, je construis des produits data de bout en bout : collecte et structuration de la donnée, modélisation (ML/DL), API, interfaces et déploiement cloud.
 
 ## Stack & Outils
 
