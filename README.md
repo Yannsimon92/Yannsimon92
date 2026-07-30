@@ -40,9 +40,9 @@ qui vont de l'hydrologie à l'orchestration d'agents IA.
 
 | Projet | Ce que c'est |
 |---|---|
-| 💧 [**Hydro-Sense**](https://github.com/Yannsimon92/100-Hydrosense) | Prédiction ML à 90 jours du niveau des nappes phréatiques (Poitou-Charentes), seuils réglementaires. Projet de fin de bootcamp — [démo live](https://hydro-sense.streamlit.app). |
+| 💧 [**Hydro-Sense**](https://github.com/Yannsimon92/Projet_Hydrosense) | Prédiction ML à 90 jours du niveau des nappes phréatiques (Poitou-Charentes), seuils réglementaires. Projet de fin de bootcamp — [démo live](https://hydro-sense.streamlit.app). |
 | 🌡️ [**ICU Nantes**](https://github.com/Yannsimon92/101-ICU-Nantes) | Cartographie des îlots de chaleur urbains à Nantes à partir d'images satellite (Landsat, Sentinel-2) + modèle explicatif (LightGBM/SHAP). |
-| 🌙 [**Analyse de Rêves**](https://github.com/Yannsimon92/99-Projet-Reves) | Projet d'équipe : NLP + embeddings pour transformer des récits de rêves en expérience sensorielle (émotions, couleurs, sons). |
+| 🌙 [**Analyse de Rêves**](https://github.com/Yannsimon92/99-Dream-AI-Analysis) | Projet d'équipe : NLP + embeddings pour transformer des récits de rêves en expérience sensorielle (émotions, couleurs, sons). |
 | 🏚️ [**Locaux vides à Nantes**](https://github.com/Yannsimon92/98-Projet-Locaux-vides-Nantes) | Pipeline data (collecte, PostGIS) pour cartographier la vacance immobilière à Nantes métropole. |
 | 🤖 [**Workflow IA Agentic**](https://github.com/Yannsimon92/103-Workflow-AI-Agentic) | Montage multi-agents (Claude Code + OpenCode) pour coder plus vite tout en gardant le contrôle sur coûts et données. |
 | 🎭 [**Théâtre IA**](https://github.com/Yannsimon92/104-Theatre-IA) | Deux agents IA (Claude, GLM) improvisent un dialogue théâtral, chacun dans son rôle. Projet perso, pour le fun. |
@@ -90,9 +90,9 @@ Claude Code / AI agents
 
 | Project | What it is |
 |---|---|
-| 💧 [**Hydro-Sense**](https://github.com/Yannsimon92/100-Hydrosense) | ML model predicting groundwater levels 90 days ahead (Poitou-Charentes region, France), against regulatory thresholds. Bootcamp capstone — [live demo](https://hydro-sense.streamlit.app). |
+| 💧 [**Hydro-Sense**](https://github.com/Yannsimon92/Projet_Hydrosense) | ML model predicting groundwater levels 90 days ahead (Poitou-Charentes region, France), against regulatory thresholds. Bootcamp capstone — [live demo](https://hydro-sense.streamlit.app). |
 | 🌡️ [**Nantes Urban Heat Islands**](https://github.com/Yannsimon92/101-ICU-Nantes) | Mapping urban heat islands in Nantes from satellite imagery (Landsat, Sentinel-2) + explainable model (LightGBM/SHAP). |
-| 🌙 [**Dream Analysis**](https://github.com/Yannsimon92/99-Projet-Reves) | Team project: NLP + embeddings turning dream narratives into a sensory experience (emotions, colors, sounds). |
+| 🌙 [**Dream Analysis**](https://github.com/Yannsimon92/99-Dream-AI-Analysis) | Team project: NLP + embeddings turning dream narratives into a sensory experience (emotions, colors, sounds). |
 | 🏚️ [**Vacant Properties in Nantes**](https://github.com/Yannsimon92/98-Projet-Locaux-vides-Nantes) | Data pipeline (collection, PostGIS) mapping vacant properties across Nantes metropolitan area. |
 | 🤖 [**AI Agentic Workflow**](https://github.com/Yannsimon92/103-Workflow-AI-Agentic) | Multi-agent coding setup (Claude Code + OpenCode) to move faster while keeping cost and data-residency under control. |
 | 🎭 [**AI Theatre**](https://github.com/Yannsimon92/104-Theatre-IA) | Two AI agents (Claude, GLM) improvise a stage dialogue, each staying in character. A personal, just-for-fun project. |
