@@ -30,7 +30,7 @@ Aujourd'hui, je construis des produits data de bout en bout : collecte et struct
 > * [**Locaux vides à Nantes**](https://github.com/Yannsimon92/98-Projet-Locaux-vides-Nantes) — Pipeline data (collecte et PostGIS) pour cartographier la vacance immobilière sur Nantes Métropole.
 > * [**Workflow IA Agentic**](https://github.com/Yannsimon92/103-Workflow-AI-Agentic) — Configuration multi-agents (Claude Code + OpenCode) pour accélérer le dev tout en gardant le contrôle sur la donnée et les coûts.
 <!-- > * [**Théâtre IA**](https://github.com/Yannsimon92/104-Theatre-IA) — Deux agents IA (Claude et GLM) qui improvisent une pièce de théâtre en gardant leur rôle. Projet perso fun. -->
-> * [**Claude Clippy Companion**](https://github.com/Yannsimon92/105-Clippy-Claude-Agent-Compagnion) — Utilitaire Windows (systray) pour notifier la fin de réponse d'un agent IA sur VS Code.
+> * [**Claude Clippy Companion**](https://github.com/Yannsimon92/105-Claude-Agent-Companion) — Utilitaire Windows (systray) pour notifier la fin de réponse d'un agent IA sur VS Code.
 > * [**Diagnostic Robot Aspi**](https://github.com/Yannsimon92/102-Robot-aspi) — Réparation d'un robot aspirateur par rétro-ingénierie des logs firmware.
 
 ## Formation
