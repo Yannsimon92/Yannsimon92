@@ -3,7 +3,7 @@
 **Ingénieur R&D (Grenoble INP) & Data / AI Engineer**  
 Dev full-stack & design produit reconverti dans la Data Science (Le Wagon Nantes).  
 J'aime concevoir des produits data complets, du modèle ML jusqu'à l'interface utilisateur.  
-[LinkedIn](https://www.linkedin.com/in/yannsimon92/) · [Portfolio](https://yannsimon.com) · [English version below](#yann-simon-1)
+[LinkedIn](https://www.linkedin.com/in/yannsimon92/) · [Portfolio](https://yannsimon.com)
 
 ---
 
@@ -39,47 +39,3 @@ Python, Data Toolkit, Decision Science, Maths pour le ML, Machine Learning, Deep
 
 > * **LinkedIn :** [linkedin.com/in/yannsimon92](https://www.linkedin.com/in/yannsimon92/)
 > * **Site :** [yannsimon.com](https://yannsimon.com)
-
----
-
-# Yann Simon
-
-**R&D Engineer (Grenoble INP) & Data / AI Engineer**  
-Former full-stack dev & product designer transitioned into Data Science (Le Wagon Nantes).  
-I build end-to-end data products, from ML models to user interfaces.  
-[LinkedIn](https://www.linkedin.com/in/yannsimon92/) · [Portfolio](https://yannsimon.com)
-
----
-
-**Background**
-
-Originally trained as an R&D Engineer at Grenoble INP, I worked in web development and product design before specializing in Data Science and AI at **Le Wagon** (Nantes batch #2275, 2026).  
-My background allows me to approach data from a product perspective: building models that are not just accurate, but actually usable and integrated into real systems (APIs, interfaces, pipelines).  
-I cover the full stack: data collection, modeling (ML/DL), APIs, UIs, and cloud deployment.
-
-## Stack & Tools
-
-> * **Data & ML:** Python, Pandas, scikit-learn, TensorFlow, LightGBM, SHAP, PostGIS
-> * **Dev & Ops:** FastAPI, Streamlit, Docker, GCP, PostgreSQL
-> * **Agentic / AI:** Multi-agent workflows (Claude Code, LLMs)
-
-## Selected Projects
-
-> * [**Hydro-Sense**](https://github.com/Yannsimon92/Projet_Hydrosense) — 90-day groundwater level prediction in France using ML against regulatory thresholds. Bootcamp capstone project. ([Live Demo](https://hydro-sense.streamlit.app))
-> * [**Nantes Urban Heat Islands**](https://github.com/Yannsimon92/101-ICU-Nantes) — Mapping urban heat islands in Nantes using satellite imagery (Landsat/Sentinel-2) and explainable ML (LightGBM/SHAP).
-> * [**Dream Analysis**](https://github.com/Yannsimon92/99-Dream-AI-Analysis) — NLP team project converting dream narratives into sensory data using embeddings.
-> * [**Vacant Properties in Nantes**](https://github.com/Yannsimon92/98-Projet-Locaux-vides-Nantes) — Data pipeline (scraping, PostGIS) mapping vacant commercial spaces across Nantes.
-> * [**AI Agentic Workflow**](https://github.com/Yannsimon92/103-Workflow-AI-Agentic) — Multi-agent coding setup (Claude Code + OpenCode) to speed up dev while maintaining data privacy and cost control.
-> * [**AI Theatre**](https://github.com/Yannsimon92/104-Theatre-IA) — Experimental setup where two LLM agents improvise a theatrical dialogue in character.
-> * [**Claude Clippy Companion**](https://github.com/Yannsimon92/105-Clippy-Claude-Agent-Compagnion) — Lightweight Windows tray app notifying when an AI agent completes execution in VS Code.
-> * [**Robot Vacuum Diagnostic**](https://github.com/Yannsimon92/102-Robot-aspi) — Firmware log reverse-engineering to repair a faulty robot vacuum.
-
-## Education
-
-**Le Wagon Nantes** — Data Science & AI Bootcamp (2026)  
-Python, Data Toolkit, Decision Science, ML Math, Machine Learning, Deep Learning, MLOps, API & Web App deployment.
-
-## Contact
-
-> * **LinkedIn:** [linkedin.com/in/yannsimon92](https://www.linkedin.com/in/yannsimon92/)
-> * **Website:** [yannsimon.com](https://yannsimon.com)
