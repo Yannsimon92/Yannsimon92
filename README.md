@@ -15,8 +15,11 @@ Aujourd'hui, je travaille sur toute la chaîne : collecte, modélisation (ML/DL)
 
 ## Stack & Outils
 
-> * **Data & ML :** Python, Pandas, scikit-learn, TensorFlow, LightGBM, SHAP, PostGIS
-> * **Dev & Ops :** FastAPI, Streamlit, Docker, GCP, PostgreSQL
+> * **Langages :** Python, SQL, JavaScript, PHP, HTML, CSS, C, LabVIEW, Arduino
+> * **Frameworks & Librairies :** Scikit-learn, Keras, TensorFlow, FastAPI, Streamlit
+> * **Data & Big Data :** Pandas, NumPy, LightGBM, SHAP, BigQuery, NLP / LLM / RAG
+> * **Bases de données :** PostgreSQL, PostGIS
+> * **Outils & DevOps :** Git, GitHub Actions, Docker, Google Cloud, Figma, Symfony
 > * **Agentic / IA :** Workflows multi-agents (Claude Code, LLMs)
 
 ## Projets
